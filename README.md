@@ -1,5 +1,6 @@
 # 3D ShapeNets: A Deep Representation for Volumetric Shapes
 ------------------------------------------------------------------------
+Original project [git]https://github.com/zhirongw/3DShapeNets 
 
 ## Introduction
 
@@ -50,6 +51,3 @@ If you use our code in your research, please consider citing:
         	Year = {2015}
 	}
 
-## Contact
-
-Please email Zhirong Wu (xavibrowu@gmail.com) for problems and bugs. Thanks!
