@@ -1,6 +1,6 @@
 # 3D ShapeNets: A Deep Representation for Volumetric Shapes
 ------------------------------------------------------------------------
-Original project [git]https://github.com/zhirongw/3DShapeNets 
+Original project [git](https://github.com/zhirongw/3DShapeNets)
 
 ## Introduction
 
